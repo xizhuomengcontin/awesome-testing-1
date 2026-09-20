@@ -222,6 +222,7 @@ IOS and Android application test.
 * [Appium github](https://github.com/appium/appium)
 
 ### Android testing
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — record a known-good agent run once, replay it to catch regressions.
 
 * [awesome android testing](https://github.com/hotchemi/awesome-android-testing)
 
